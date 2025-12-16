@@ -32,8 +32,11 @@
 #📥 ইনস্টলেশন ও ব্যবহার
 
 git clone https://github.com/DEVIL-DOOR/INFINITY-BOMBING-v7.git
+
 cd INFINITY-BOMBING-v7
+
 pip install rich requests
+
 python3 infinity-bombing.py
 
 #ব্যবহার পদ্ধতি
